@@ -1,0 +1,89 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 3px solid #ececec;
+    color: $bg-white;
+
+    a {
+        text-decoration: none;
+        color: $bg-white;
+
+        &:hover {
+            background: $bg-white;
+            color: $bg-dark;
+            border-radius: 15px;
+        }
+    }
+
+    .headerOptions {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 5px;
+        
+        h2 {
+            padding-right: 40px;
+            padding-left: 40px;
+        }
+    }
+
+    .email {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+
+        .emailIcon {
+            margin-top: 25px;
+            padding-right: 10px;
+        }
+    }
+
+    .headerTitle {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding-left: 40px;
+        padding-right: 40px;
+  
+        .atSymbol {
+            width: auto;
+            margin-top: 30px;
+        }
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: $bg-ball;
+    // border: 2px solid red;
+    width: 100%;
+    padding: 40px;
+
+    .hello-presentation {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        .hello {
+            font-size: 30px;
+        }
+
+        .presentation {
+            font-size: 50px;
+            color: #90cdf4;;
+        }          
+    }
+
+    .my-photo-background {
+
+        img {
+            width: 350px;
+            border-radius: 30%;
+            // padding: 30px;
+            border: 2px solid white;
+        }
+    }
+}
