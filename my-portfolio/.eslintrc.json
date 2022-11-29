@@ -1,5 +1,5 @@
 {
     "root": true,
-    "extends": ["trybe-frontend"]
+    "extends": ["react-app"]
  }
   

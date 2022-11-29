@@ -13,12 +13,12 @@ function Home() {
             </div>
             <div className="presentation">
                 <p className="welcome">Welcome to my portfolio!</p>
-                <p className="enjoy">I enjoy coding front-end </p>
-                <p className="enjoy">and back-end services.</p>
+                <p className="enjoy">I am a brazilian Full-Stack developer</p>
+                <p className="enjoy">based in Pindamonhangaba-SP.</p>
             </div>
         </div>
         <div className="my-photo-background">
-            <img src={require('../images/WhatsApp Image 2022-11-24 at 19.02.35.jpeg')} alt="My Photo" />            
+            <img src={require('../images/sentadoCodando-removebg.png')} alt="Me Coding" />            
         </div>
       </main>
     </div>

@@ -3,7 +3,9 @@ body {
     font-family: $font-stack;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: $bg-dark;
+    background-image: url("../images/v748-toon-103.jpg");
+    // background-image: linear-gradient(to right, #463e8e, #1b1c30);
+    background-color: $bg-white;
   }
   
   code {
