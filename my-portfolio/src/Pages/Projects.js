@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Components/Footer';
 import Header from '../Components/Header';
 
 
@@ -7,6 +8,7 @@ function Projects() {
     <div className="Projects">
       <Header />
       <h1> Projects </h1>
+      <Footer />
     </div>
   );
 }

@@ -1,6 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { HiOutlineMail, HiAtSymbol } from "react-icons/hi"
+import { HiAtSymbol } from "react-icons/hi"
 
 function Footer() {
    return (

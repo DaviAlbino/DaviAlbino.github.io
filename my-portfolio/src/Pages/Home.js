@@ -15,7 +15,7 @@ function Home() {
             <div className="presentation">
                 <p className="welcome">Welcome to my portfolio!</p>
                 <p className="enjoy">I am a brazilian Full-Stack developer</p>
-                <p className="enjoy">based in Pindamonhangaba-SP.</p>
+                <p className="enjoy">based in São Paulo.</p>
             </div>
         </div>
         <div className="my-photo-background">
