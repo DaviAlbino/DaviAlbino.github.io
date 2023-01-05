@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../Components/Header';
+import Footer from '../Components/Footer';
 import '../images/WhatsApp Image 2022-11-24 at 19.02.35.jpeg';
 
 function Home() {
@@ -21,6 +22,7 @@ function Home() {
             <img src={require('../images/sentadoCodando-removebg.png')} alt="Me Coding" />            
         </div>
       </main>
+      <Footer />
     </div>
   );
 }

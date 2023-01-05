@@ -121,3 +121,16 @@ header {
         }
     }
 }
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 3px solid #ececec;
+    color: $bg-white;
+    background-image: $bg-gradient;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    font-size: larger;
+}
