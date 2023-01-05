@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.29514098.css",
-    "main.js": "/static/js/main.d63d9920.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/v748-toon-103.jpg": "/static/media/v748-toon-103.13c41db45f2fa31e73c6.jpg",
-    "static/media/DaviOffice.jpeg": "/static/media/DaviOffice.eee2fe7bdfbdcb141ee1.jpeg",
-    "static/media/sentadoCodando-removebg.png": "/static/media/sentadoCodando-removebg.461d3eee78654e66f42a.png",
-    "static/media/WhatsApp Image 2022-11-24 at 19.02.35.jpeg": "/static/media/WhatsApp Image 2022-11-24 at 19.02.35.83834c8d5dd4be365846.jpeg",
-    "index.html": "/index.html",
-    "main.29514098.css.map": "/static/css/main.29514098.css.map",
-    "main.d63d9920.js.map": "/static/js/main.d63d9920.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.465c29f1.css",
+    "main.js": "/my-portfolio/static/js/main.66f4c4a1.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/v748-toon-103.jpg": "/my-portfolio/static/media/v748-toon-103.13c41db45f2fa31e73c6.jpg",
+    "static/media/DaviOffice.jpeg": "/my-portfolio/static/media/DaviOffice.eee2fe7bdfbdcb141ee1.jpeg",
+    "static/media/sentadoCodando-removebg.png": "/my-portfolio/static/media/sentadoCodando-removebg.461d3eee78654e66f42a.png",
+    "static/media/WhatsApp Image 2022-11-24 at 19.02.35.jpeg": "/my-portfolio/static/media/WhatsApp Image 2022-11-24 at 19.02.35.83834c8d5dd4be365846.jpeg",
+    "index.html": "/my-portfolio/index.html",
+    "main.465c29f1.css.map": "/my-portfolio/static/css/main.465c29f1.css.map",
+    "main.66f4c4a1.js.map": "/my-portfolio/static/js/main.66f4c4a1.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29514098.css",
-    "static/js/main.d63d9920.js"
+    "static/css/main.465c29f1.css",
+    "static/js/main.66f4c4a1.js"
   ]
 }
