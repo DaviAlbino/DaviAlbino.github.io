@@ -15,7 +15,7 @@ const contacts = [
     },
     {
         id: 3,
-        address: "https://drive.google.com/file/d/1HTgCrVLkeE0Lv-5DVpLh90MOZX73uRyS/view?usp=sharing",
+        address: "https://drive.google.com/file/d/1eIBtZMEYu0nwQ7WGDJF1WlX3xGc-m8ir/view?usp=share_link",
         contactTitle: "Resumé",
         image: "https://cdn-icons-png.flaticon.com/512/86/86117.png",
         description: "You can see my resumé here!",
