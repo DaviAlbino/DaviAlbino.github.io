@@ -17,7 +17,7 @@ function About() {
                     <p className="part-one">Once I got in touch with this area, I fell in love with coding, which is constantly stimulating my creativity and logical thinking, skills that I've always liked to work on and to improve.<br /></p>
                     <p className="part-one">And it is in the programming area where I seek to collaborate with a company that has clear and defined values, where I can contribute to its growth, and thus also contribute to mine.<br /></p>
                     <p className="part-one">I am currently studying for Full-stack Web Development at Trybe. <br /></p>
-                    <p className="part-one">The technologies I am currently learning and developing are JavaScript, React, CSS3, HTML5, Git, and Docker. <br /></p>
+                    <p className="part-one">The technologies I am currently learning and developing are JavaScript, React, CSS3, HTML5, Git, Node.js, Typescript and Docker. <br /></p>
                   </text>
               </div>
           </div>
